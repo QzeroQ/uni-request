@@ -7,6 +7,8 @@
 
 ## 致谢 && 参考
 * [axios](https://github.com/axios/axios)
+* [vue](https://cn.vuejs.org/index.html)
+* [uniapp](https://uniapp.dcloud.io/)
 * hatedMe
 
 
