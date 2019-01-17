@@ -3,7 +3,7 @@
 
 ## 使用方法
 
-[案例](https://www.jianshu.com/p/08ff860466b6)
+[代码案例](https://www.jianshu.com/p/08ff860466b6)
 
 ## 致谢 && 参考
 * [axios](https://github.com/axios/axios)
